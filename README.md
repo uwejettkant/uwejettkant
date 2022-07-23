@@ -1,3 +1,6 @@
+![symplr_Header](https://user-images.githubusercontent.com/61709180/180615186-f85ef42d-f669-4d0a-a5c1-dadbe335c442.png)
+
+
 <h1 align="center">Hi 👋, I'm Uwe</h1>
 <h3 align="center">I’m interested in ad-technologie and javascript is my main focus.</h3>
 
