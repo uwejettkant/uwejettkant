@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on ad-technologie software at [symplr](https://symplr.de/)
 
-- 👨‍💻 All of my projects are available at [https://webentwicklung-jettkant.de/index.html#work](https://webentwicklung-jettkant.de/index.html#work)
-
-- 📝 I regularly write articles on [tbn...](tbn...)
+- 👨‍💻 My actual project is available under [zufallsgenerator](https://zufallsgenerator.io/)
 
 - 💬 Ask me about **Ad Technologie, Blog/Content Monetisation**
 
-- 📫 How to reach me **info@webentwicklung-jettkant.de**
+- 📫 How to reach me **kontakt@zufallsgenerator.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
