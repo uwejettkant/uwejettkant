@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ad-technologie software at [symplr](https://symplr.de/)
 
-- 👨‍💻 My actual project is available under [zufallsgenerator](https://zufallsgenerator.io/)
+- 👨‍💻 My actual project is available under [zufallsgenerator.io](https://zufallsgenerator.io/)
 
 - 💬 Ask me about **Ad Technologie, Blog/Content Monetisation**
 
