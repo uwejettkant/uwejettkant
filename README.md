@@ -1,27 +1,20 @@
-# Hi, I'm Uwe
+# Uwe Jettkant
 
 AI Product Engineering & Full-Stack Web Development (Rostock, remote).
 
-- Website: [uwe-jettkant.de](https://uwe-jettkant.de)
-- Contact: [hallo@uwe-jettkant.de](mailto:hallo@uwe-jettkant.de)
-- LinkedIn: [linkedin.com/in/uwe-jettkant](https://www.linkedin.com/in/uwe-jettkant)
+My main hub for case studies, architecture notes, and how I work is **[uwe-jettkant.de](https://uwe-jettkant.de)**.
 
-### Focus & Stack
+### Featured Project
 
-- **Core:** TypeScript, Next.js, React, Node.js
-- **Workflow:** Agentic Engineering, Spec-Driven Development, Automated Quality Gates
-- **Infrastructure:** Vercel, PostgreSQL, GitHub Actions
+- **[strayps](https://github.com/uwejettkant/strayps)** — See every AI coding agent and MCP server on your machine, find the ones left behind, and end them one session at a time ([Case Study](https://uwe-jettkant.de/projekte/strayps))
 
-### GitHub Stats
+### Case Studies & Writing
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwejettkant&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+- **[Arbeitsweise](https://uwe-jettkant.de/arbeitsweise)** — Agentic Engineering, quality gates, and spec-driven workflows
+- **[Zufallsgenerator](https://uwe-jettkant.de/projekte/zufallsgenerator)** & **[Trading-System](https://uwe-jettkant.de/projekte/trading-system)** — Live case studies
+- **[Lab](https://uwe-jettkant.de/lab)** — Deep dives on `AGENTS.md` and AI-assisted code reviews
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uwejettkant&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Stack & Contact
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uwejettkant&" alt="GitHub Streak" />
-</p>
+- **Core:** TypeScript, Next.js, React, Node.js, PostgreSQL, Vercel, GitHub Actions
+- **Contact:** [hallo@uwe-jettkant.de](mailto:hallo@uwe-jettkant.de) · [LinkedIn](https://www.linkedin.com/in/uwe-jettkant)
